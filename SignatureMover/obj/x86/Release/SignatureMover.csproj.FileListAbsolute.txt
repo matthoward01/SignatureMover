@@ -1,0 +1,11 @@
+c:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\SignatureMover\SignatureMover\bin\Release\SignatureMover.exe.config
+c:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\SignatureMover\SignatureMover\bin\Release\SignatureMover.exe
+c:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\SignatureMover\SignatureMover\bin\Release\SignatureMover.pdb
+c:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\SignatureMover\SignatureMover\obj\x86\Release\ResolveAssemblyReference.cache
+c:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\SignatureMover\SignatureMover\obj\x86\Release\SignatureMover.FormMain.resources
+c:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\SignatureMover\SignatureMover\obj\x86\Release\SignatureMover.FormSettings.resources
+c:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\SignatureMover\SignatureMover\obj\x86\Release\SignatureMover.Properties.Resources.resources
+c:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\SignatureMover\SignatureMover\obj\x86\Release\GenerateResource.read.1.tlog
+c:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\SignatureMover\SignatureMover\obj\x86\Release\GenerateResource.write.1.tlog
+c:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\SignatureMover\SignatureMover\obj\x86\Release\SignatureMover.exe
+c:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\SignatureMover\SignatureMover\obj\x86\Release\SignatureMover.pdb
